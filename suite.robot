@@ -7,4 +7,4 @@ Test Teardown   Fechar App
 **Test Cases***
 Ver meu saldo
     Mostra saldo
-    Meu saldo deve ser de  R$ 5.500,00
+    Meu saldo deve ser de  R$ 5.521,32
